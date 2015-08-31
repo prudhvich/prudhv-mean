@@ -1,0 +1,19 @@
+{
+  "name": "codegeek",
+  "version": "0.0.0",
+  "authors": [
+    "pbhushan <puspendubhushan.pusu@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4"
+  }
+}
